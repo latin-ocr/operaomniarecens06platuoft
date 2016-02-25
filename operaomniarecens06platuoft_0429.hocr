@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniarecens06platuoft_0429.png"; bbox 0 0 1624 2904; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 356 882 1016 1062">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 356 882 1016 1062">
+     <span class='ocr_line' id='line_1_1' title="bbox 356 882 1016 944; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 356 882 1016 944; x_wconf 61' lang='lat' dir='ltr'><strong>PROLEGoMENA‘</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 632 1019 720 1062; baseline -0.023 0"><span class='ocrx_word' id='word_1_2' title='bbox 632 1021 670 1062; x_wconf 83' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_3' title='bbox 685 1019 720 1060; x_wconf 83' lang='lat' dir='ltr'>n</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 21 1138 1358 1211">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 21 1138 1358 1211">
+     <span class='ocr_line' id='line_1_3' title="bbox 21 1138 1358 1211; baseline -0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 21 1138 1358 1211; x_wconf 66' lang='lat' dir='ltr'><strong>wnmAGEM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 126 2755 1087 2796">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 126 2755 1087 2796">
+     <span class='ocr_line' id='line_1_4' title="bbox 126 2755 1087 2796; baseline 0.011 -11"><span class='ocrx_word' id='word_1_5' title='bbox 126 2755 216 2788; x_wconf 68' lang='lat' dir='ltr'><strong>mn.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 241 2759 325 2796; x_wconf 84' lang='lat' dir='ltr'><strong>Opp.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 350 2757 428 2789; x_wconf 68' lang='lat' dir='ltr'><strong>Vol.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 455 2759 510 2791; x_wconf 66' lang='lat' dir='ltr'><strong>Vl.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 540 2757 630 2789; x_wconf 74' lang='lat' dir='ltr'>Sect.</span> <span class='ocrx_word' id='word_1_10' title='bbox 656 2758 703 2790; x_wconf 83' lang='grc'><strong>11.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1032 2759 1087 2796; x_wconf 74' lang='grc'><strong>16</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
